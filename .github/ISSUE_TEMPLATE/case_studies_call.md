@@ -1,6 +1,6 @@
 ---
 name: Case Studies Request Form
-about: CIROH consortium members and partners embarking on research projects utilizing the NextGen framework are invited to request access to the research cloud, encompassing services from AWS, Google Cloud using this form. This form must be submitted by Principal Investigator (PI) of the project.
+about: CIROH consortium members and partners are invited to request access to the research cloud (AWS, Google Cloud) using this form. This form must be submitted by PI of the project.
 title: ''
 labels: infrastructure
 assignees: ''
